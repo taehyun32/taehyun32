@@ -40,16 +40,11 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
+     <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </div>
   
   <div style="margin-top: 8px">
-    <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/debian-A80030.svg?&style=for-the-badge&logo=debian&logoColor=white" />
-  </div>
-  
-  <div style="margin-top: 8px">
     <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
   </div>
