@@ -9,6 +9,8 @@
   <img src="https://readme-stats-custom.vercel.app/api/top-langs?username=taehyun32&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="41%" />
 </div>
 
+<br>
+
 <h2>
   📚 Experience
 </h2>
@@ -16,6 +18,8 @@
   <li>42seoul 10기</li>
   <li>부스트캠프 웹/모바일 9기 베이직/챌린지 수료</li>
 </ul>
+
+<br>
 
 <h2>
   🛠️ Stacks
@@ -26,7 +30,6 @@
     <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   </div>
   
   <div style="margin-top: 8px">
@@ -45,7 +48,6 @@
   
   <div style="margin-top: 8px">
     <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
   </div>
 </div>
