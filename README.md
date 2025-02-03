@@ -5,7 +5,7 @@
 
 <!-- GitHub Stats -->
 <h2>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="20" style="vertical-align: middle;" /> GitHub
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="20" style="vertical-align: middle;" />GitHub
 </h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="https://readme-stats-custom.vercel.app/api?username=taehyun32&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" style="flex: 1; max-width: 49%; height: auto;" />
