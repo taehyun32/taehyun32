@@ -4,9 +4,12 @@
 </div>
 
 <!-- GitHub Stats -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://readme-stats-custom.vercel.app/api?username=taehyun32&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://readme-stats-custom.vercel.app/api/top-langs?username=taehyun32&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="41%" />
+<h2 style="display: flex; align-items: center;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="24" height="24" />GitHub
+</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://readme-stats-custom.vercel.app/api?username=taehyun32&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" style="flex: 1; max-width: 49%; height: auto;" />
+  <img src="https://readme-stats-custom.vercel.app/api/top-langs?username=taehyun32&layout=compact&langs_count=8&hide_border=true&theme=transparent" style="flex: 1; max-width: 41%; height: auto;" />
 </div>
 
 <br>
