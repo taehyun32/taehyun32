@@ -7,7 +7,7 @@
 <h2>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="20" style="vertical-align: middle;" />GitHub
 </h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
   <img src="https://readme-stats-custom.vercel.app/api?username=taehyun32&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" style="flex: 1; max-width: 49%; height: auto;" />
   <img src="https://readme-stats-custom.vercel.app/api/top-langs?username=taehyun32&layout=compact&langs_count=8&hide_border=true&theme=transparent" style="flex: 1; max-width: 41%; height: auto;" />
 </div>
